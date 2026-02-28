@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779300568205",
+    "project_id": "letmegrab-todo",
+    "storage_bucket": "letmegrab-todo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779300568205:android:a8ca60ea4f6bda59c3f6c4",
+        "android_client_info": {
+          "package_name": "com.example.letmegrab_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUK58pvF84kBYUL7ViM6p58uy00h-9giM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
